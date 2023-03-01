@@ -4,3 +4,7 @@ by sending it values of cards
 ex : AS = Ace of Spades
 6C = 6 of clubs
 0D = 10 of diamonds
+
+Will use node.js
+
+Host with glitch (free)
